@@ -2,7 +2,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d3b2e,100:2d9e6e&height=180&section=header&text=Judith%20Gbagidi&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </div>
 </div>
-
 <h3 align="center">
 Policy & Advocacy Lead • AI Governance • Civic Tech • Digital Rights • Social Impact
 </h3>
