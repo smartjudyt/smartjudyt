@@ -17,20 +17,18 @@
 
 I am a **senior policy and advocacy professional**, programme strategist, and doctoral researcher with **over a decade of experience** across international development, humanitarian response, and civil society in Nigeria and West & Central Africa.
 
-Currently serving as **Policy & Advocacy Lead, West & Central Africa at Christian Aid International**, I lead strategic advocacy across 10+ countries, manage EU-funded programming, and produce intelligence tools that translate political economy dynamics into actionable priorities for leadership and donors. I have represented Christian Aid at **COP28 (Dubai)** and **COP29 (Baku)** on technology, AI, and innovation for climate action.
-
-My work sits at the intersection of **policy influence, programme architecture, gender justice, and evidence-based advocacy** — with a track record of building systems that outlast the engagement and enabling local actors to lead.
+Currently serving as **Policy & Advocacy Lead, West & Central Africa at Christian Aid International**, I lead strategic advocacy across 10+ countries, manage Donor-funded programming, and produce intelligence tools that translate political economy dynamics into actionable priorities for leadership and donors.
+My work sits at the intersection of **policy influence, programme architecture, gender justice, and evidence-based advocacy** with a track record of building systems that outlast the engagement and enabling local actors to lead.
 
 ---
 
 ## 🧭 Thematic Expertise
 
 ```text
-▸ EU-Funded Programme Management & Reporting (ESPIN, £2.5m)
+▸ Programme Management & Reporting 
 ▸ Multi-Stakeholder Partnership (MSP) Facilitation
 ▸ Political Economy Analysis & Advocacy Intelligence
 ▸ Gender Justice, SRHR & GBV Policy Reform
-▸ Localization of Humanitarian Response
 ▸ MEL Architecture, Log-frames & Power BI Dashboards
 ▸ Civil Society Strengthening & Civic Accountability
 ▸ Tax Justice & Domestic Resource Mobilisation
@@ -45,7 +43,7 @@ My work sits at the intersection of **policy influence, programme architecture, 
 | Role | Organisation | Period |
 |---|---|---|
 | 🌍 **Policy & Advocacy Lead, West & Central Africa** | Christian Aid International | Feb 2026 – Present |
-| 🇳🇬 **Program Manager, Governance & Social Mobilisation** | ActionAid Nigeria | April 2024 – Present |
+| 🇳🇬 **Program Manager, Governance & Social Mobilisation** | ActionAid Nigeria | April 2024 – Feb 2026 |
 | 🏥 **Head of Programme** | Education as a Vaccine | Nov 2021 – Feb 2024 |
 | 🏗️ **Programme Manager** | Africa PPP Advisory | Sep 2020 – Oct 2021 |
 | 💧 **WASH Consultant** | UNICEF Nigeria | Jan 2017 – Jan 2020 |
@@ -54,12 +52,10 @@ My work sits at the intersection of **policy influence, programme architecture, 
 ### Highlights
 
 - 📊 Designed and authors the **Quarterly Political Economy & Advocacy Scan (QPEA)** — covering Nigeria, Sierra Leone, DRC, Burundi & Burkina Faso — integrating PESTLE analysis, stakeholder power mapping, risk matrices, and advocacy calendars for leadership decision-making
-- 💶 Managed **EU-funded ESPIN project (£2.5m)** end-to-end across two roles; contributed to a successful **£2.5m SPA II EU grant** application
 - 💰 Secured **US$1m in climate-justice grants** (OSIWA, Ford Foundation) with zero-revision donor panel review
-- 🏛️ Directed **US$3.2m SRHR/GBV portfolio** across 8 LGAs; raised donor audit scores from 74% to 92%
+- 🏛️ Directed **SRHR/GBV portfolio** across 8 LGAs; raised donor audit scores from 74% to 92%
 - 🗳️ Coordinated civil society–government processes that secured **Enugu State's first Youth Policy** and revised Lagos State Youth Policy to include climate justice
 - 💧 Scaled **Community-Led Total Sanitation to 25 Nigerian states**, certifying 580+ communities open-defecation-free (UNICEF)
-- 🎤 Speaker at **COP28** (Dubai, 2023) and **COP29** (Baku, 2024) on AI, technology & climate action in food systems
 
 ---
 
@@ -69,6 +65,7 @@ My work sits at the intersection of **policy influence, programme architecture, 
 
 | Year | Publication |
 |---|---|
+| **2026** | **Gbagidi, J.** — *Digital Economy and Inclusive Growth in Africa: Evidence from a Four-Country Panel Analysis* — **The Seybold Report, 21(5), 164–175. DOI: 10.5281/zenodo.20391035 (Scopus-indexed)** |
 | **2024** | Andrew M., Suwaiba A., Celestine O., & **Gbagidi J.** — *Unequal Burden: Examining the Impact of Austerity Measures on Poverty and Gender Inequality in Nigeria, with a Focus on Women and Youth* |
 | **2024** | **Gbagidi, J.** — *Feminist Futures of Digital Labor and Democracy in Africa* — Conference paper, International Network on Digital Labor, Middle East & Africa Chapter |
 | **2023** | **Gbagidi, J.** & Ajala, E.O. — *Empowering Girls and Combating Climate Change: Unleashing the Potential of Education and Gender Equality* — **Lapai Journal of Humanities, 14(1), 137–146. ISSN: 2006-2826** |
@@ -77,20 +74,18 @@ My work sits at the intersection of **policy influence, programme architecture, 
 
 ### Flagship Analytical Tool
 
-**📋 Quarterly Political Economy & Advocacy Scan (QPEA)**
+**Quarterly Political Economy & Advocacy Scan (QPEA)**
 > Structured quarterly intelligence tool produced for Christian Aid's West & Central Africa programme. The QPEA synthesises PESTLE analysis, stakeholder power mapping, risk matrices, and time-bound advocacy calendars across five priority countries to translate complex political and economic dynamics into actionable intelligence for policy influence, coalition-building, and donor engagement.
 
 ---
 
 ## 🔬 Research & Academic Work
 
+- 🎓 **PhD – Economics**, Nile University Nigeria *(In View)*
 - 🎓 **MBA – Information Management Systems**, Ladoke Akintola University of Technology *(2025)*
 - 🎓 **M.Sc. Economics**, University of Benin *(2016)*
 - 🎓 **B.Sc. Economics**, Bingham University *(2012)*
 
-**Current doctoral research areas:**
-- Food price shocks & household consumption smoothing in urban Nigeria
-- Climate change and agricultural export performance in West Africa (panel econometrics: Fixed Effects, GMM)
 
 ---
 
