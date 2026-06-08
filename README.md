@@ -4,12 +4,8 @@
 </div>
 
 <h3 align="center">
-Governance • Advocate • Digital Rights • Civic Technology
+Policy & Advocacy Lead • AI Governance • Civic Tech • Digital Rights • Social Impact
 </h3>
-
-<p align="center">
-Policy & Advocacy Lead | Researcher | Social Impact Professional
-</p>
 </div>
 
 <p align="center">
