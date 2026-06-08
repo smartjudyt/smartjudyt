@@ -1,18 +1,15 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3a5c,50:2e6da4,100:1a7a4a&height=200&section=header&text=Judith%20Gbagidi&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Policy%20%26%20Advocacy%20Lead%20%7C%20Programme%20Strategist%20%7C%20Researcher&descSize=15&descAlignY=58&descColor=d0e8f2" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a4a2e,100:3d8b5e&height=180&section=header&text=Judith%20Gbagidi&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Researcher%20%7C%20Humanitarian%20%7C%20Advocate&descSize=16&descAlignY=58&descColor=b8e0c8" />
+</div>
 
 </div>
 
 <p align="center">
   <a href="mailto:jgbagidi@christian-aid.org"><img src="https://img.shields.io/badge/Email-jgbagidi%40christian--aid.org-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/judith-gbagidi/">
   <a href="mailto:gbagidijudith@gmail.com"><img src="https://img.shields.io/badge/Email-gbagidijudith%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
   <a href="https://www.linkedin.com/in/judith-gbagidi/"><img src="https://img.shields.io/badge/LinkedIn-judith--gbagidi-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
   <img src="https://img.shields.io/badge/Location-Abuja%2C%20Nigeria-2ea44f?style=flat-square&logo=googlemaps&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Open%20to-Consultancy%20%7C%20Research-orange?style=flat-square"/>
-  <a href="mailto:jgbagidi@christian-aid.org"><img src="https://img.shields.io/badge/Email-jgbagidi%40christian--aid.org-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/judith-gbagidi/">
 </p>
 
 ---
