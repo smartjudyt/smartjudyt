@@ -102,7 +102,7 @@ My work sits at the intersection of **policy influence, programme architecture, 
 ![Panel Econometrics](https://img.shields.io/badge/Panel%20Econometrics-FE%20%7C%20GMM%20%7C%20Hausman-2e7d52?style=flat-square)
 ![MEL](https://img.shields.io/badge/MEL-Log--frames%20%7C%20KPI%20Libraries-6a4c93?style=flat-square)
 ![PESTLE](https://img.shields.io/badge/Political%20Economy-PESTLE%20%7C%20Power%20Mapping-e07b39?style=flat-square)
-![EU Programme](https://img.shields.io/badge/EU%20Programming-ESPIN%20%7C%20SUSI%20%7C%20SPA%20II-003399?style=flat-square&logo=europeanunion&logoColor=white)
+
 
 ---
 
