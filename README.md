@@ -4,7 +4,7 @@
 </div>
 
 <h3 align="center">
-Governance • AI Governance • Digital Rights • Civic Technology
+Governance • Advocate • Digital Rights • Civic Technology
 </h3>
 
 <p align="center">
