@@ -9,6 +9,12 @@
   <a href="https://www.linkedin.com/in/judith-gbagidi/"><img src="https://img.shields.io/badge/LinkedIn-judith--gbagidi-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
   <img src="https://img.shields.io/badge/Location-Abuja%2C%20Nigeria-2ea44f?style=flat-square&logo=googlemaps&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Open%20to-Consultancy%20%7C%20Research-orange?style=flat-square"/>
+    <p align="left">
+  <a href="mailto:jgbagidi@christian-aid.org"><img src="https://img.shields.io/badge/Email-jgbagidi%40christian--aid.org-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/judith-gbagidi/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 </p>
 
 ---
